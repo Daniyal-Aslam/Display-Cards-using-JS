@@ -23,6 +23,7 @@ h1{
     line-height: 45px;
     font-family: 'Poppins', sans-serif; 
     color: rgb(0, 42, 74);
+    padding: 0 40px;
 }
 /* INPUT STYLES BEGIN */
 #card-name{
