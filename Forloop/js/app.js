@@ -16,6 +16,11 @@ let data = [
         heading: 'Card 3',
         text: 'Card 3 is very beautiful'
     },
+    {
+        img: 'https://images.unsplash.com/photo-1659482633371-c51d3a02bc81?ixlib=rb-4.0.3&ixid=MnwxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3540&q=80',
+        heading: 'Card 4',
+        text: 'Card 4 is very beautiful'
+    },
 ]
 
 
