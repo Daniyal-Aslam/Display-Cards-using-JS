@@ -53,16 +53,7 @@ for (i = 0; i < data.length; i++) {
     text.setAttribute('class', 'card-text');
     text.textContent = data[i].text;
     card_body.appendChild(text);
-
-    magic.push(col);
+    cards.appendChild(col);
 }
 
-
-// console.log(...magic);
-
-
-function see_magic() {
-    // magic.map(card=> {
-        cards.appendChild(...magic);
-    // })
-}
+ 
